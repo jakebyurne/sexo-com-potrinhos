@@ -1,12 +1,20 @@
 button{
-    background-color: cadetblue;
+    background-color: rgb(83, 52, 168);
     padding: 25px 50px;
 color: white;
+
+}
+
+#hamter{
+ display: none;
     
 }
 
 body{
+    background: rgb(57,28,61);
+background: linear-gradient(90deg, rgba(57,28,61,1) 0%, rgba(110,9,121,1) 35%, rgba(206,0,255,1) 100%);
+    
 text-align: center;
-margin-top: 350px;
-
+display: grid;
+justify-content: center;
 }
